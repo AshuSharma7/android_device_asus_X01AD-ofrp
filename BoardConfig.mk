@@ -89,7 +89,6 @@ BOARD_BUILD_SYSTEM_ROOT_IMAGE := true
 TW_INCLUDE_CRYPTO := true
 TW_INCLUDE_CRYPTO_FBE := true
 TARGET_HW_DISK_ENCRYPTION := true
-TARGET_CRYPTFS_HW_PATH := vendor/qcom/opensource/commonsys/cryptfs_hw
 
 # QCOM hardware
 BOARD_USES_QCOM_HARDWARE := true
